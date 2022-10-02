@@ -333,7 +333,7 @@ The dashboards used for communication with the algorithmic process created on Mi
 
 # **Explore Workbook**
 
-- [Choke System Analysis]()
+- [Choke System Analysis](https://github.com/BasseyIsrael/Dynamic-Statistical-Modelling-of-Production-Systems/tree/main/Workbook)
 
 
 ## **Contribution**
