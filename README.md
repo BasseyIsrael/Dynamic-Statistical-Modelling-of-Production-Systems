@@ -25,7 +25,7 @@
 
 ![Python version](https://img.shields.io/badge/EXCEL%20version-365-lightgrey?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/BasseyIsrael/Dynamic-Statistical-Modelling-of-Production-Systems?style=for-the-badge)
-![GitHub repo file count](https://img.shields.io/github/directory-file-count/BasseyIsrael/Dynamic-Statistical-Modelling-of-Production-Systems/src?label=WORKBOOKS&style=for-the-badge)
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/BasseyIsrael/Dynamic-Statistical-Modelling-of-Production-Systems/workbook?label=WORKBOOKS&style=for-the-badge)
 ![Type of Algo](https://img.shields.io/badge/Algo%20TYPE-MULTIVARIATE%20&%20UNIVARIATE%20REGRESSION-red?style=for-the-badge)
 ![GitHub repo size](https://img.shields.io/github/repo-size/BasseyIsrael/Dynamic-Statistical-Modelling-of-Production-Systems?style=for-the-badge)
 
